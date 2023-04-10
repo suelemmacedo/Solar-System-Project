@@ -10,7 +10,7 @@ Ao acessar esta aplicação, uma pessoa usuária deverá ser capaz de:
 <br>
 * Visualizar todos os planetas do sistema solar renderizados na tela;
 <br>
-* Visutalizar todas as cartas com informações sobre missões espaciais.
+* Visualizar todas as cartas com informações sobre missões espaciais.
 </p>
 
 
@@ -24,10 +24,3 @@ Ao acessar esta aplicação, uma pessoa usuária deverá ser capaz de:
 <img align="center" alt="Suelem-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <p></p> 
 
-<img src="https://img.shields.io/static/v1?label=Link&message=Solar System&color=purple&style=for-the-badge&logo=github"/>
-
-<b> <a href="">Solar System</a> </b> <br>
-
-</div>
-
-<div align="center">
