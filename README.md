@@ -26,7 +26,7 @@ Ao acessar esta aplicação, uma pessoa usuária deverá ser capaz de:
 
 <img src="https://img.shields.io/static/v1?label=Link&message=Solar System&color=purple&style=for-the-badge&logo=github"/>
 
-### <b> <a href="https://suelemmacedo.github.io/pixels-art/">Solar System</a> </b> <br>
+<b> <a href="">Solar System</a> </b> <br>
 
 </div>
 
