@@ -1,0 +1,18 @@
+{
+    "extends": [
+        "stylelint-config-standard",
+        "stylelint-config-prettier"
+    ],
+    "plugins": [
+        "stylelint-order"
+    ],
+    "rules": {
+        "order/properties-alphabetical-order": true,
+        "color-no-invalid-hex": true,
+        "declaration-block-no-duplicate-properties": true,
+        "declaration-block-no-shorthand-property-overrides": true,
+        "no-duplicate-selectors": true,
+        "property-no-unknown": true,
+        "unit-no-unknown": true
+    }
+}
