@@ -1,3 +1,11 @@
 {
-  "extends": "trybe-frontend"
+  "extends": "trybe-frontend",
+  "rules": {
+    "react/jsx-curly-spacing": [
+      "error",
+      "never"
+    ],
+    "operator-linebreak": "off",
+    "react/jsx-one-expression-per-line": "off"
+  }
 }
