@@ -1,0 +1,29 @@
+.planet-card {
+  align-items: center;
+  background-color: #111a2e;
+  border: 1px solid #25334d;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 24px;
+  transition: transform 0.3s ease , border-color 0.3s ease;
+}
+
+.planet-card:hover {
+  border-color: #63d9ff;
+  transform: translateY(-6px);
+}
+
+.planet-card img {
+  height: 180px;
+  max-width: 100%;
+  object-fit: contain;
+  width: 180px;
+}
+
+.planet-card p {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+}

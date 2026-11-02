@@ -1,0 +1,58 @@
+.mission-card {
+  background-color: #111a2e;
+  border: 1px solid #25334d;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 24px;
+  transition:
+    border-color 0.3s ease,
+    transform 0.3s ease;
+}
+
+.mission-card:hover {
+  border-color: #63d9ff;
+  transform: translateY(-4px);
+}
+
+.mission-year {
+  color: #63d9ff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.mission-name {
+  color: white;
+  font-size: 20px;
+  margin: 0;
+}
+
+.mission-country,
+.mission-destination {
+  color: #aab8d0;
+  font-size: 14px;
+  margin: 0;
+}
+
+.missions-search {
+  background-color: #111a2e;
+  border: 1px solid #25334d;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+  margin-bottom: 32px;
+  max-width: 400px;
+  padding: 14px 16px;
+  width: 100%;
+}
+
+.missions-search:focus {
+  border-color: #63d9ff;
+  outline: 2px solid #63d9ff;
+  outline-offset: 2px;
+}
+
+.missions-search::placeholder {
+  color: #aab8d0;
+}
